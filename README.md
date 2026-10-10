@@ -86,16 +86,10 @@ workday/
 
 ## Screenshots
 
-Add screenshots of the application here once the repository is published.
+Screenshots of the application
 
-For example:
+<img width="602" height="820" alt="image" src="https://github.com/user-attachments/assets/1f923fc9-4775-4757-b53d-42fd5c945128" />
 
-```text
-screenshots/
-├── workday-dashboard.png
-├── break-tracker.png
-└── history-log.png
-```
 
 ## What I learned
 
