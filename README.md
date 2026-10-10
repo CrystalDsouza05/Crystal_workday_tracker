@@ -1,4 +1,4 @@
-# Workday
+# Crystal Personal Workday Tracker
 
 ### A lightweight personal work-hours tracker
 
